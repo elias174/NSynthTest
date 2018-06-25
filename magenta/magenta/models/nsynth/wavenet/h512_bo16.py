@@ -103,7 +103,7 @@ class FastGenerationConfig(object):
         push_ops.append(push)
 
       # local conditioning
-      d += utils.linear(en, num_z, width * 2, name='cond_map_%d' % (i + 1))
+      # d += utils.linear(en, num_z, width * 2, name='cond_map_%d' % (i + 1))
 
       # gated cnn
       assert d.get_shape().as_list()[2] % 2 == 0
@@ -286,12 +286,12 @@ class Config(object):
 
     s = tf.nn.relu(s)
     s = masked.conv1d(s, num_filters=skip_width, filter_length=1, name='out1')
-    s = self._condition(s,
-                        masked.conv1d(
-                            en,
-                            num_filters=skip_width,
-                            filter_length=1,
-                            name='cond_map_out1'))
+    # s = self._condition(s,
+    #                     masked.conv1d(
+    #                         en,
+    #                         num_filters=skip_width,
+    #                         filter_length=1,
+    #                         name='cond_map_out1'))
     s = tf.nn.relu(s)
 
     ###
