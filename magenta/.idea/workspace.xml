@@ -1,0 +1,1244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/rainbowgram.py" line="68" mnemonic="4" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0df64d64-66c7-4112-bd2e-717b95c2ec9a" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/models/arbitrary_image_stylization/images/stylized_images/golden_gate_stylized_13_0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/models/arbitrary_image_stylization/arbitrary_image_stylization_train.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/music/performance_lib_test.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/models/coconet/export_saved_model.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/reviews/styletransfer.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/models/rl_tuner/rl_tuner.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/reviews/assets/color-preserving-ny.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/common/nade_test.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/models/pianoroll_rnn_nade/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/models/image_stylization/image_stylization_train.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/models/polyphony_rnn/polyphony_model.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/music/abc_parser.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/interfaces/midi/midi_interaction.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/music/testdata/atonal_transposition_change.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/models/arbitrary_image_stylization/images/stylized_cobwebbed_images/eiffel_tower_stylized_cobwebbed_0044_0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/music/drums_encoder_decoder_test.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/models/polyphony_rnn/polyphony_lib.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/music/drums_lib.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/music/testdata/unmetered_example.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/models/image_stylization/vgg.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/models/image_stylization/BUILD" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/common/BUILD" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/models/shared/events_rnn_graph_test.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/reviews/pixelrnn.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/models/coconet/evalmodel_bazel.sh" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/models/arbitrary_image_stylization/images/stylized_cobwebbed_images/eiffel_tower_stylized_cobwebbed_0129_0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/reviews/assets/gan/image06.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/models/sketch_rnn/assets/sketch_rnn_examples.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/models/rl_tuner/rl_tuner_ops.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/music/events_lib_test.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/models/arbitrary_image_stylization/images/stylized_images_interpolation/colva_beach_stylized_bricks_2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/interfaces/midi/midi_clock.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/models/music_vae/base_model.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/music/chords_lib.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/models/arbitrary_image_stylization/images/stylized_images/golden_gate_stylized_3_0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/common/concurrency.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/music/musicnet_io_test.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/music/pianoroll_encoder_decoder.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/models/sketch_rnn/sketch_rnn_train.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/models/polyphony_rnn/polyphony_rnn_generate.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/models/image_stylization/image_stylization_evaluate.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/models/onsets_frames_transcription/BUILD" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/music/testdata/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/reviews/assets/pixelrnn_figure6.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/pipelines/chord_pipelines.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/models/drums_rnn/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/models/rl_tuner/BUILD" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/reviews/assets/pixelrnn_full_context.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/models/coconet/sample_bazel.sh" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/models/music_vae/configs.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/music/testdata/zocharti_loch.abc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/models/arbitrary_image_stylization/images/style_images/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/models/coconet/lib_tfsampling.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/models/image_stylization/image_stylization_finetune.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/interfaces/midi/midi_hub.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/models/sketch_rnn/assets/data_format.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/reviews/assets/pixelrnn_masks_A.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/pipelines/pipeline.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/models/coconet/BUILD" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/models/coconet/coconet_evaluate.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/models/arbitrary_image_stylization/images/style_images/black_zigzag.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/models/performance_rnn/performance_sequence_generator.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/music/BUILD" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/pipelines/pipelines_common_test.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/models/improv_rnn/improv_rnn_config_flags.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/music/melody_encoder_decoder_test.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/models/coconet/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demos/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/music/melody_encoder_decoder.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/reviews/assets/gibbs.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/models/arbitrary_image_stylization/images/stylized_images_interpolation/statue_of_liberty_stylized_Theo_van_Doesburg_3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/reviews/assets/rnnrbm_color.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/models/arbitrary_image_stylization/images/stylized_images/golden_gate_stylized_12_0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/models/arbitrary_image_stylization/BUILD" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/models/music_vae/BUILD" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/pipelines/drum_pipelines_test.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/models/image_stylization/evaluation_images/doug_eck.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/models/melody_rnn/melody_rnn_create_dataset.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/models/arbitrary_image_stylization/arbitrary_image_stylization_losses.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/models/sketch_rnn/assets/sketch_rnn_schematic.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/models/arbitrary_image_stylization/images/stylized_images/golden_gate_stylized_black_zigzag_0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/models/pianoroll_rnn_nade/pianoroll_rnn_nade_sequence_generator.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/models/melody_rnn/melody_rnn_model.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/models/arbitrary_image_stylization/images/style_images/pink_zigzag.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/models/pianoroll_rnn_nade/pianoroll_rnn_nade_model.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/models/arbitrary_image_stylization/images/white.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/music/testdata/clarinet_scale.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/models/arbitrary_image_stylization/images/style_images/Camille_Mauclair.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/models/coconet/lib_util.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/models/arbitrary_image_stylization/arbitrary_image_stylization_evaluate.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/models/arbitrary_image_stylization/images/stylized_images/colva_beach_stylized_towers_1916_0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/models/polyphony_rnn/polyphony_lib_test.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/models/arbitrary_image_stylization/images/content_images/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/models/drums_rnn/drums_rnn_model.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/music/testdata/melody.mid" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/models/music_vae/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/models/performance_rnn/performance_rnn_generate.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/models/pianoroll_rnn_nade/pianoroll_rnn_nade_create_dataset.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/testdata/example.mid" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/pipelines/statistics_test.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/models/arbitrary_image_stylization/images/style_images/Theo_van_Doesburg_sq.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/models/arbitrary_image_stylization/images/style_images/towers_1916_sq.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/models/arbitrary_image_stylization/images/stylized_images/golden_gate_stylized_piano-keyboard-sketch_0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/models/arbitrary_image_stylization/images/stylized_images_interpolation/statue_of_liberty_stylized_Theo_van_Doesburg_0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/models/arbitrary_image_stylization/images/stylized_images/golden_gate_stylized_towers_1916_0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/music/chords_encoder_decoder.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/music/lead_sheets_lib.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/models/sketch_rnn/model.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/models/arbitrary_image_stylization/images/stylized_images/colva_beach_stylized_piano-keyboard-sketch_0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/pipelines/note_sequence_pipelines.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/models/arbitrary_image_stylization/images/style_images/La_forma.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/pipelines/lead_sheet_pipelines.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/music/testdata/example_mono.wav" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/music/testdata/english2.mid" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/music/pianoroll_encoder_decoder_test.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/testdata/example_is_drum.mid" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/models/arbitrary_image_stylization/images/style_images/clouds-over-bor-1940_sq.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/models/image_stylization/image_stylization_transform.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/models/polyphony_rnn/polyphony_rnn_train.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/models/image_stylization/imagenet_data.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/reviews/assets/gan/image14.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/models/pianoroll_rnn_nade/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/models/pianoroll_rnn_nade/pianoroll_rnn_nade_generate.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/reviews/assets/get_hidden.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/models/melody_rnn/melody_rnn_generate.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/models/coconet/lib_saved_model.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/music/midi_synth.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/models/music_vae/lstm_models.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/models/arbitrary_image_stylization/images/content_images/colva_beach_sq.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/models/sketch_rnn/rnn.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/models/music_vae/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/reviews/assets/get_bias.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/models/arbitrary_image_stylization/images/stylized_images_interpolation/statue_of_liberty_stylized_Theo_van_Doesburg_1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/models/performance_rnn/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/models/arbitrary_image_stylization/arbitrary_image_stylization_build_model.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/reviews/assets/generation.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/music/testdata/english3.mid" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/models/improv_rnn/improv_rnn_create_dataset.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/models/image_stylization/ops.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/reviews/assets/gan/image04.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/models/performance_rnn/performance_rnn_create_dataset_test.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/models/music_vae/lstm_utils_test.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/models/melody_rnn/primer.mid" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/reviews/assets/gan/image11.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/models/rl_tuner/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/common/sequence_example_lib.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/models/polyphony_rnn/polyphony_encoder_decoder.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/models/coconet/lib_data.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/reviews/assets/RNN_RBM_Piano_Roll_2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/models/melody_rnn/melody_rnn_train.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/music/testdata/st_anne.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/reviews/assets/gan/image03.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/music/chords_lib_test.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/testdata/BUILD" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/models/arbitrary_image_stylization/images/stylized_images/golden_gate_stylized_clouds-over-bor-1940_0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/models/arbitrary_image_stylization/images/stylized_images_interpolation/statue_of_liberty_stylized_Theo_van_Doesburg_4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/common/testing_lib.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/models/coconet/lib_pianoroll.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/reviews/assets/gan/image00.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/models/coconet/lib_hparams.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/music/performance_encoder_decoder.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/models/image_stylization/image_utils.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/music/midi_io_test.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/models/improv_rnn/improv_rnn_create_dataset_test.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/music/chord_inference.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/models/image_stylization/evaluation_images/BUILD" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/models/melody_rnn/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/models/coconet/samples/generated_result.npy" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/music/sequences_lib_test.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/music/testdata/example.wav" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/scripts/unpack_bundle.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/models/onsets_frames_transcription/onsets_frames_transcription_create_dataset_test.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/music/drums_lib_test.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/models/drums_rnn/drums_rnn_config_flags.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/pipelines/note_sequence_pipelines_test.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/models/arbitrary_image_stylization/images/stylized_images/golden_gate_stylized_red_texture_0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/models/music_vae/lstm_utils.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/reviews/assets/attention_interpolation.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/models/rl_tuner/note_rnn_loader.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/pipelines/BUILD" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/music/testdata/english.abc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/models/polyphony_rnn/BUILD" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/scripts/convert_dir_to_note_sequences_test.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/models/polyphony_rnn/polyphony_rnn_create_dataset.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/models/drums_rnn/drums_rnn_sequence_generator.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/models/music_vae/trained_model.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/music/testdata/unicode_filename.mxl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/models/arbitrary_image_stylization/images/stylized_images/golden_gate_stylized_4_0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/music/sequence_generator.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/pipelines/chord_pipelines_test.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/reviews/assets/attention_parameterization.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/music/abc_parser_test.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/models/coconet/lib_evaluation.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/models/image_stylization/evaluation_images/guerrillero_heroico.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/pipelines/pipelines_common.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/models/arbitrary_image_stylization/images/stylized_images_interpolation/colva_beach_stylized_bricks_4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/models/arbitrary_image_stylization/images/stylized_images/colva_beach_stylized_clouds-over-bor-1940_0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/models/pianoroll_rnn_nade/pianoroll_rnn_nade_graph.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/models/coconet/lib_sampling.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/models/coconet/lib_tfutil.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/models/improv_rnn/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/common/tf_utils.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/models/drums_rnn/drums_rnn_train.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/models/arbitrary_image_stylization/images/style_images/zigzag_colorful.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/reviews/assets/gan/image05.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/pipelines/pipeline_test.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/models/improv_rnn/improv_rnn_generate.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/reviews/assets/svhn_generation.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/models/shared/events_rnn_model.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/models/image_stylization/evaluation_images/benjamin_harrison.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/models/polyphony_rnn/polyphony_sequence_generator.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/music/testdata/chord_symbols.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/pipelines/melody_pipelines_test.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/models/arbitrary_image_stylization/images/stylized_cobwebbed_images/eiffel_tower_stylized_cobwebbed_0053_0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/models/onsets_frames_transcription/constants.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/models/image_stylization/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/music/note_sequence_io.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/reviews/assets/Nottingham_Piano_Roll.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/reviews/assets/rnnrbm_figure.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/models/melody_rnn/melody_rnn_sequence_generator.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/common/nade.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/models/polyphony_rnn/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/models/polyphony_rnn/polyphony_encoder_decoder_test.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/music/musicnet_io.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/models/onsets_frames_transcription/onsets_frames_transcription_infer.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/pipelines/dag_pipeline.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/models/performance_rnn/performance_rnn_train.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/models/sketch_rnn/utils.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/music/sequences_lib.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/music/testdata/flute_scale.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/models/improv_rnn/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/models/coconet/lib_graph.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/common/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/music/chord_symbols_lib_test.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/music/testdata/unpitched.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/interfaces/midi/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/models/coconet/evalsample_bazel.sh" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/testdata/example_complex.mid" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/music/musicxml_reader.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/music/notebook_utils.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/models/sketch_rnn/BUILD" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/models/music_vae/js/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/models/pianoroll_rnn_nade/pianoroll_rnn_nade_create_dataset_test.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/kokoro/gcp_ubuntu/py2/presubmit.sh" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/music/pianoroll_lib.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/models/shared/BUILD" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/models/improv_rnn/improv_rnn_sequence_generator.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/reviews/GAN.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/js/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/music/testdata/el_capitan.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/music/chords_encoder_decoder_test.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/models/drums_rnn/BUILD" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/models/arbitrary_image_stylization/images/stylized_images_interpolation/colva_beach_stylized_bricks_3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/models/coconet/coconet_train.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/models/melody_rnn/BUILD" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/models/arbitrary_image_stylization/images/stylized_cobwebbed_images/eiffel_tower_stylized_cobwebbed_0116_0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/scripts/BUILD" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/music/drums_encoder_decoder.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/models/arbitrary_image_stylization/images/stylized_images/colva_beach_stylized_black_zigzag_0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/reviews/assets/gan/image07.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/models/onsets_frames_transcription/onsets_frames_transcription_transcribe.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/music/midi_io.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/models/arbitrary_image_stylization/images/stylized_images_interpolation/colva_beach_stylized_bricks_0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/reviews/assets/mnist_generation.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/models/arbitrary_image_stylization/images/stylized_images_interpolation/colva_beach_stylized_bricks_1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/models/melody_rnn/melody_rnn_create_dataset_test.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/models/image_stylization/evaluation_images/picabo_lava.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/models/drums_rnn/drums_rnn_create_dataset.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/models/rl_tuner/rl_tuner_test.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/models/onsets_frames_transcription/onsets_frames_transcription_create_dataset.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/models/coconet/train_bazel.sh" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/music/model.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/pipelines/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/models/sketch_rnn/assets/catbus.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/reviews/assets/gan/image10.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/models/arbitrary_image_stylization/images/stylized_images_interpolation/statue_of_liberty_stylized_Theo_van_Doesburg_5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/scripts/convert_dir_to_note_sequences.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/models/onsets_frames_transcription/infer_util_test.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/models/arbitrary_image_stylization/images/content_images/statue_of_liberty_sq.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/protobuf/music.proto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/pipelines/dag_pipeline_test.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/music/testdata/meter_test.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/music/testdata/english1.mid" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/testdata/tfrecord_iterator_test.tfrecord" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/reviews/summary_generation_sequences.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/models/performance_rnn/performance_rnn_create_dataset.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/models/arbitrary_image_stylization/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/music/testdata/alternating_meter.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/models/music_vae/data_test.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/interfaces/midi/magenta_midi.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/reviews/assets/grad_loss.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/music/lead_sheets_lib_test.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/testdata/musicnet_example.npz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/models/rl_tuner/rl_tuner_train.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/models/arbitrary_image_stylization/arbitrary_image_stylization_with_weights.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/models/melody_rnn/melody_rnn_config_flags.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/reviews/draw.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/music/performance_lib.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/music/encoder_decoder.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/reviews/assets/gan/image02.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/interfaces/BUILD" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/music/constants.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/protobuf/generator.proto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/music/melodies_lib_test.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/models/drums_rnn/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/reviews/assets/RNN_RBM_Piano_Roll.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/reviews/assets/gan/image08.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/music/musicxml_parser_test.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/models/onsets_frames_transcription/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/interfaces/midi/midi_hub_test.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/models/coconet/coconet_sample.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/common/state_util.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/models/drums_rnn/drums_rnn_generate.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/common/beam_search_test.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/scripts/abc_compare.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/music/encoder_decoder_test.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/models/coconet/testdata/TestData.npz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/models/image_stylization/image_stylization_create_dataset.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/reviews/assets/diagram.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/models/pianoroll_rnn_nade/BUILD" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/music/performance_controls.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/common/concurrency_test.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/music/performance_encoder_decoder_test.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/music/audio_io.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/models/drums_rnn/drums_rnn_create_dataset_test.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/models/music_vae/data_hierarchical.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/music/pianoroll_lib_test.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/kokoro/gcp_ubuntu/py3/presubmit.sh" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/music/musicxml_parser.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/models/arbitrary_image_stylization/images/content_images/eiffel_tower.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/music/sequence_generator_bundle.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/reviews/rnnrbm.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/models/arbitrary_image_stylization/images/stylized_images_interpolation/statue_of_liberty_stylized_Theo_van_Doesburg_2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/scripts/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/models/arbitrary_image_stylization/nza_model.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/music/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/models/image_stylization/evaluation_images/coast_guard_boat.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/models/onsets_frames_transcription/data.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/music/testdata/flute_scale.mxl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/models/improv_rnn/improv_rnn_model.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/pipelines/statistics.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/models/coconet/lib_logging.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/common/state_util_test.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/models/improv_rnn/improv_rnn_train.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/models/performance_rnn/performance_model.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/models/arbitrary_image_stylization/images/stylized_images/golden_gate_stylized_2_0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/models/arbitrary_image_stylization/images/content_images/golden_gate_sq.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/music/sequence_generator_test.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/models/arbitrary_image_stylization/images/stylized_images_interpolation/colva_beach_stylized_bricks_5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/music/events_lib.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/models/image_stylization/model.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/music/audio_io_test.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/models/performance_rnn/BUILD" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/music/performance_controls_test.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/reviews/assets/pixelrnn_masks_highlevel.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/kokoro/test.sh" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/models/polyphony_rnn/polyphony_rnn_create_dataset_test.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/music/melodies_lib.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/models/melody_rnn/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/music/chord_symbols_lib.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/models/arbitrary_image_stylization/images/style_images/red_texture_sq.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/reviews/assets/gan/image01.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/models/music_vae/data_hierarchical_test.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/models/rl_tuner/rl_tuner_eval_metrics.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/models/sketch_rnn/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/reviews/assets/gan/image12.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/models/onsets_frames_transcription/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/models/onsets_frames_transcription/data_test.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/music/note_sequence_io_test.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/reviews/assets/gan/image09.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/models/arbitrary_image_stylization/images/stylized_cobwebbed_images/eiffel_tower_stylized_cobwebbed_0059_0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/models/onsets_frames_transcription/onsets_frames_transcription_train.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/models/shared/events_rnn_train.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/models/music_vae/data.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/music/testdata/mid_measure_time_signature.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/testdata/example_event_order.mid" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/models/polyphony_rnn/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/pipelines/lead_sheet_pipelines_test.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/models/shared/events_rnn_graph.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/pipelines/drum_pipelines.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/music/chord_inference_test.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/protobuf/BUILD" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/pipelines/melody_pipelines.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/models/music_vae/music_vae_train.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/models/performance_rnn/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/reviews/assets/tubingen-starry-night.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/models/arbitrary_image_stylization/images/style_images/bricks_sq.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/models/onsets_frames_transcription/model.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/music/testdata/rhythm_durations.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/common/beam_search.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/reviews/assets/gan/image13.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/reviews/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/models/arbitrary_image_stylization/images/style_images/piano-keyboard-sketch_sq.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/music/testdata/flute_scale_with_png.mxl" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/models/arbitrary_image_stylization/images/stylized_images/colva_beach_stylized_red_texture_0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/models/pianoroll_rnn_nade/pianoroll_rnn_nade_train.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/models/onsets_frames_transcription/train_util.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/reviews/assets/Pop_Music_Piano_Roll.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/music/testing_lib.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/interfaces/midi/BUILD" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/reviews/assets/pixelrnn_masks_B.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/interfaces/midi/midi.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/models/arbitrary_image_stylization/images/stylized_cobwebbed_images/eiffel_tower_stylized_cobwebbed_0057_0.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/music/testdata/whole_measure_rest_forward.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/models/image_stylization/learning.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/models/coconet/lib_mask.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/models/onsets_frames_transcription/infer_util.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/magenta/models/improv_rnn/BUILD" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/magenta/tools/build.sh" afterPath="$PROJECT_DIR$/magenta/tools/build.sh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/magenta/models/nsynth/utils.py" afterPath="$PROJECT_DIR$/magenta/models/nsynth/utils.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/magenta/tools/pip/build_pip_package.sh" afterPath="$PROJECT_DIR$/magenta/tools/pip/build_pip_package.sh" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="reader.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/magenta/models/nsynth/reader.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="792">
+              <caret line="52" column="10" lean-forward="false" selection-start-line="52" selection-start-column="10" selection-end-line="52" selection-end-column="10" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="nsynth_generate.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/magenta/models/nsynth/wavenet/nsynth_generate.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="342">
+              <caret line="19" column="45" lean-forward="false" selection-start-line="19" selection-start-column="45" selection-end-line="19" selection-end-column="45" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="h512_bo16.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/magenta/models/nsynth/wavenet/h512_bo16.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1728">
+              <caret line="105" column="23" lean-forward="false" selection-start-line="105" selection-start-column="23" selection-end-line="105" selection-end-column="23" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="example.py" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/bin/ImplementationProyectos/magenta/magenta/example.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="144">
+              <caret line="13" column="15" lean-forward="false" selection-start-line="13" selection-start-column="15" selection-end-line="13" selection-end-column="15" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ae.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/magenta/models/nsynth/baseline/models/ae.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2646">
+              <caret line="155" column="31" lean-forward="false" selection-start-line="155" selection-start-column="31" selection-end-line="155" selection-end-column="31" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="train.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/magenta/models/nsynth/wavenet/train.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="99" column="45" lean-forward="true" selection-start-line="99" selection-start-column="45" selection-end-line="99" selection-end-column="45" />
+              <folding>
+                <element signature="e#981#1004#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>get_mod</find>
+      <find>path</find>
+      <find>get_batch</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/magenta/models/nsynth/utils.py" />
+        <option value="$PROJECT_DIR$/rainbowgram.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="width" value="1920" />
+    <option name="height" value="1061" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="magenta" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="magenta" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="magenta" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="magenta" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nsynth-test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="magenta" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="magenta" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="magenta" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="magenta" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="magenta" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="magenta" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="models" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="magenta" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="magenta" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="magenta" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="models" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nsynth" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="magenta" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="magenta" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="magenta" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="models" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nsynth" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wavenet" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="last_opened_file_path" value="$USER_HOME$/bin/ImplementationProyectos/magenta/magenta/example.py" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path" value="/usr/bin/node" />
+    <property name="js.eslint.eslintPackage" value="" />
+    <property name="js-jscs-nodeInterpreter" value="/usr/bin/node" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ApexTest" factoryName="Apex Test">
+      <method />
+    </configuration>
+    <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="magenta" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PyBehaveRunConfigurationType" factoryName="Behave">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="magenta" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PyLettuceRunConfigurationType" factoryName="Lettuce">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="magenta" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="magenta" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <module name="magenta" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="magenta" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="magenta" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="magenta" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="magenta" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="magenta" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="" />
+      <option name="keywords" value="" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="false" />
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0df64d64-66c7-4112-bd2e-717b95c2ec9a" name="Default" comment="" />
+      <created>1528902181348</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1528902181348</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1920" height="1061" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2593583" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug Logs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Execute Anonymous" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Salesforce" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="2" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/magenta/models/nsynth/reader.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="792">
+          <caret line="52" column="10" lean-forward="false" selection-start-line="52" selection-start-column="10" selection-end-line="52" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/magenta/models/nsynth/wavenet/nsynth_generate.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="19" column="45" lean-forward="false" selection-start-line="19" selection-start-column="45" selection-end-line="19" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/magenta/models/nsynth/wavenet/h512_bo16.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1728">
+          <caret line="105" column="23" lean-forward="false" selection-start-line="105" selection-start-column="23" selection-end-line="105" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/bin/ImplementationProyectos/magenta/magenta/example.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="13" column="15" lean-forward="false" selection-start-line="13" selection-start-column="15" selection-end-line="13" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/magenta/models/nsynth/baseline/models/ae.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2646">
+          <caret line="155" column="31" lean-forward="false" selection-start-line="155" selection-start-column="31" selection-end-line="155" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/magenta/models/nsynth/wavenet/train.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#981#1004#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/magenta/models/nsynth/reader.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="792">
+          <caret line="52" column="10" lean-forward="false" selection-start-line="52" selection-start-column="10" selection-end-line="52" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/magenta/models/nsynth/utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="882">
+          <caret line="49" column="2" lean-forward="false" selection-start-line="49" selection-start-column="2" selection-end-line="49" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/magenta/models/nsynth/wavenet/h512_bo16.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2718">
+          <caret line="160" column="32" lean-forward="false" selection-start-line="160" selection-start-column="32" selection-end-line="160" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/magenta/models/nsynth/wavenet/nsynth_save_embeddings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1908">
+          <caret line="115" column="0" lean-forward="false" selection-start-line="115" selection-start-column="0" selection-end-line="115" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rainbowgram.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/representation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="24" column="1" lean-forward="true" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/magenta/models/nsynth/wavenet/fastgen.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="972">
+          <caret line="61" column="13" lean-forward="false" selection-start-line="61" selection-start-column="13" selection-end-line="61" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/magenta/models/nsynth/wavenet/nsynth_generate.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/magenta/models/nsynth/wavenet/train.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2232">
+          <caret line="126" column="15" lean-forward="false" selection-start-line="126" selection-start-column="15" selection-end-line="126" selection-end-column="15" />
+          <folding>
+            <element signature="e#981#1004#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/magenta/models/nsynth/reader.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="792">
+          <caret line="52" column="10" lean-forward="false" selection-start-line="52" selection-start-column="10" selection-end-line="52" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/magenta/models/nsynth/utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="882">
+          <caret line="49" column="2" lean-forward="false" selection-start-line="49" selection-start-column="2" selection-end-line="49" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/magenta/models/nsynth/wavenet/h512_bo16.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2718">
+          <caret line="160" column="32" lean-forward="false" selection-start-line="160" selection-start-column="32" selection-end-line="160" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/magenta/models/nsynth/wavenet/nsynth_save_embeddings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1908">
+          <caret line="115" column="0" lean-forward="true" selection-start-line="115" selection-start-column="0" selection-end-line="115" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rainbowgram.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1296">
+          <caret line="76" column="14" lean-forward="true" selection-start-line="76" selection-start-column="14" selection-end-line="76" selection-end-column="14" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/magenta/models/nsynth/wavenet/fastgen.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="972">
+          <caret line="61" column="13" lean-forward="false" selection-start-line="61" selection-start-column="13" selection-end-line="61" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/magenta/models/nsynth/wavenet/nsynth_generate.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/magenta/models/nsynth/wavenet/train.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#981#1004#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demos/README.md" />
+    <entry file="file://$PROJECT_DIR$/magenta/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.virtualenvs/nsynth-works/lib/python2.7/site-packages/librosa/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="19" column="21" lean-forward="true" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tools/bazel.rc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/representation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="24" column="1" lean-forward="false" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/magenta/models/nsynth/wavenet/fastgen.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-44">
+          <caret line="161" column="22" lean-forward="false" selection-start-line="161" selection-start-column="22" selection-end-line="161" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rainbowgram.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="661">
+          <caret line="97" column="26" lean-forward="false" selection-start-line="97" selection-start-column="26" selection-end-line="97" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/magenta/models/nsynth/wavenet/nsynth_save_embeddings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="874">
+          <caret line="115" column="0" lean-forward="false" selection-start-line="115" selection-start-column="0" selection-end-line="115" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/magenta/models/nsynth/wavenet/masked.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2528">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/magenta/models/nsynth/utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-9944">
+          <caret line="28" column="22" lean-forward="true" selection-start-line="28" selection-start-column="22" selection-end-line="28" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/magenta/models/nsynth/reader.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="792">
+          <caret line="52" column="10" lean-forward="false" selection-start-line="52" selection-start-column="10" selection-end-line="52" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/magenta/models/nsynth/wavenet/nsynth_generate.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="19" column="45" lean-forward="false" selection-start-line="19" selection-start-column="45" selection-end-line="19" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/bin/ImplementationProyectos/magenta/magenta/example.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="13" column="15" lean-forward="false" selection-start-line="13" selection-start-column="15" selection-end-line="13" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/magenta/models/nsynth/baseline/models/ae.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2646">
+          <caret line="155" column="31" lean-forward="false" selection-start-line="155" selection-start-column="31" selection-end-line="155" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/magenta/models/nsynth/wavenet/h512_bo16.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1728">
+          <caret line="105" column="23" lean-forward="false" selection-start-line="105" selection-start-column="23" selection-end-line="105" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/magenta/models/nsynth/wavenet/train.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="99" column="45" lean-forward="true" selection-start-line="99" selection-start-column="45" selection-end-line="99" selection-end-column="45" />
+          <folding>
+            <element signature="e#981#1004#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
